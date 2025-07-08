@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjib-kumar-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="sanjib-kumar-mandal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjib-kumar-mandal" alt="sanjib-kumar-mandal" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjib-kumar-mandal" alt="sanjib-kumar-mandal" /></a></p> 
 
 - 🔭 I’m currently working on [Kage UI](https://github.com/sanjib-kumar-mandal/kage-ui)
 
